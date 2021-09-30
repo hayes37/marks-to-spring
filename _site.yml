@@ -1,0 +1,12 @@
+name: "marks-to-spring"
+title: "Marks to Spring"
+description: |
+  Marks to Spring
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
